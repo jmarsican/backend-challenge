@@ -201,7 +201,7 @@ files,
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
+ *.iml
 # *.ipr
 
 # CMake
@@ -218,14 +218,3 @@ out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
-
-# Cursive Clojure plugin
-.idea/replstate.xml
-
-# SonarLint plugin
-.idea/sonarlint/
-
-# Editor-based Rest Client
-.idea/httpRequests
-
-
